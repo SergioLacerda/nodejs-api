@@ -17,12 +17,12 @@ npm install express
 ```
 
 ### 3
-create `index.js` content
+create `index.js` and copy content from this template.
 
 ## Run
 
 ```
-npm run src/index.js
+node src/index.js
 ```
 
 ## Test
